@@ -1,10 +1,10 @@
- Welcome to My Portfolio Hello! My name is Giovanni.g.
+# Welcome to My Portfolio Hello! My name is Giovanni.g.
 
 ## Projects
 
-- Project 1:  keychain printing 
+- Project 1:  [keychain printing](keychains.md) 
 
-- Project 2: poster
+- Project 2: Description
 
 ## About Me i like to play soccer 
 
