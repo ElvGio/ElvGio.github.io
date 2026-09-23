@@ -29,7 +29,6 @@ What It Does:
 Example:
 
 You may include a screenshot of the actual VEXcode block.
-
 Important
 The If Then block is NOT hexagonal.
 
