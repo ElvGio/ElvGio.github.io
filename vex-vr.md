@@ -22,8 +22,8 @@ Explain what you learned while completing this lesson or challenge. Include prog
 
 ---------------------------------------------------------------------------
 
-
-
+Challenges that i completed: draw a house, wall maze with bumpers, drive to 3 number challenge, disk color maze, disk mover challenge.  
+Goal: the goal is to complete the level 1 challenges 
 
 
 
