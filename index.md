@@ -4,7 +4,7 @@
 
 - Project 1:  [keychain printing](keychains.md) 
 
-- Project 2: Description
+- Project 2: [vex-vr](vex-vr.md)  
 
 ## About Me i like to play soccer 
 
