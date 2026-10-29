@@ -25,19 +25,8 @@ Click here to go to my notebook → [Notebook](notebook.md)
 
 **Instructions:** Document your work each class. Use the guiding questions and examples that apply to what you did that day. Include pictures, sketches, measurements, or screenshots when helpful.
 
----------
-
-## Day 1
-
-— Date: 10/29/2026
-
-### 1. What was your goal or plan for today?
-- What were you trying to accomplish?
-- finishing to build the robot and testing to drive 
-- What steps did you plan to take?
-- all we just did is inspect the robot 
-- What materials, parts, or tools did you need?
-screws,bolts,metal pieces,screw driver 
+--------- 
+templete-engineerin-gnotebook.md    
 
 
 
