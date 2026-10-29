@@ -26,7 +26,7 @@ Click here to go to my notebook → [Notebook](notebook.md)
 **Instructions:** Document your work each class. Use the guiding questions and examples that apply to what you did that day. Include pictures, sketches, measurements, or screenshots when helpful.
 
 --------- 
-[engineering-notebook.md](engineering-notebook.md)    
+["engineering-notebook.md"]("engineering-notebook.md")    
 
 
 
