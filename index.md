@@ -30,9 +30,9 @@ Click here to go to my notebook → [Notebook](notebook.md)
 
 — Date: 10/29/2026
 
-### 1. What was your goal or plan for today?
-- What were you trying to accomplish?
-- finishing to build the robot and testing to drive 
+### 1. my goal or plan for today?
+- What was i trying to accomplish?
+- well we were finishing to build the robot and testing to drive 
 - What steps did you plan to take?
 - all we just did is inspect the robot 
 - What materials, parts, or tools did you need?
