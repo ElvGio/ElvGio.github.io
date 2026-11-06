@@ -1,4 +1,4 @@
-# VEX VR
+# VEX VR project 
 
 This page documents my work and learning throughout the VEX VR Computer Science course.
 
@@ -6,24 +6,26 @@ This page documents my work and learning throughout the VEX VR Computer Science 
 
 ## Challenge: [Disk mover]
 
-### Goal
+### Goal: get different each disk into each different box 
 
 Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
 
-### My Solution is to get every disk color in each different color box 
-but what i did is get 3 blues into the blue box 
+### My Solution is to get every different disk color in each different color box 
+I make 3 own blocks for each color disk and 1 own block 
+for grabbing disk and I use the inerlooped in each of the disk solution
+
 
 Add a picture or screenshot showing your solution.
-<img width="562" height="381" alt="image" src="https://github.com/user-attachments/assets/f00c2a26-a637-4469-bb56-92eecd560ba7" />
+<img width="1291" height="688" alt="image" src="https://github.com/user-attachments/assets/9808bcd4-16e3-434f-88e3-2dd8bf033698" />
+
 
 ### What I Learned
-Explain what you learned while completing this lesson or challenge. Include programming concepts, blocks, sensors, strategies, or problem-solving skills you practiced.
- if next to have to each different color disk into each different color box 
-
+I learned that I can make a own block instead of stacking each code together, using a own block
+can make shorter 
 ---------------------------------------------------------------------------
 
 Challenges that i completed: draw a house, wall maze with bumpers, drive to 3 number challenge, disk color maze, disk mover challenge.  
-Goal: the goal is to complete the level 1 challenges 
+Goal: the goal is to complete the level challenges 
 
 
 
