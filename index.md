@@ -41,7 +41,16 @@ screws,bolts,metal pieces,screw driver
 
 
 
+## Day 2
 
+— Date: 11/10/2026
+
+### 2. What did you work on today?
+- What did i design, sketch, build, or program is measuring the race track and the robot 
+- the changes we did is the robot wheels to keep it steady 
+- What tasks did I complete?
+- the measurements of the robot length is 30cm=300mm 300mm/ witdth 300mm=600
+- our scale is 1:10.
 
 
 
