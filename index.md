@@ -25,32 +25,7 @@ Click here to go to my notebook → [Notebook](notebook.md)
 
 **Instructions:** Document your work each class. Use the guiding questions and examples that apply to what you did that day. Include pictures, sketches, measurements, or screenshots when helpful.
 
---------- 
-## Day 1
 
-— Date: 10/29/2026
-
-### 1. my goal or plan for today?
-- What was i trying to accomplish?
-- well we were finishing to build the robot and testing to drive 
-- What steps did you plan to take?
-- all we just did is inspect the robot 
-- What materials, parts, or tools did you need?
-screws,bolts,metal pieces,screw driver 
-
-
-
-
-## Day 2
-
-— Date: 11/10/2026
-
-### 2. What did you work on today?
-- What did i design, sketch, build, or program is measuring the race track and the robot 
-- the changes we did is the robot wheels to keep it steady 
-- What tasks did I complete?
-- the measurements of the robot length is 30cm=300mm 300mm/ witdth 300mm=600
-- our scale is 1:10.
 
 
 
